@@ -1,0 +1,23 @@
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.exe
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.pdb
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.exe
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.pdb
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.csproj.GenerateResource.Cache
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.exe
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.pdb
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.exe
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\bin\Debug\Hola Mundo.pdb
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\yoyo\Documents\RESPALDO\CASO 4\INTRODUCCION A LA PROGRAMACION\Ejemplos\Hola Mundo\Hola Mundo\obj\x86\Debug\Hola Mundo.csproj.GenerateResource.Cache
